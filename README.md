@@ -14,7 +14,7 @@
 
 # **Hi there, I'm Yaswanth T** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+Intern;Java+%7C+Spring+Boot+%7C+React;Building+Modern+Web+Solutions;Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Software+Developer;Software+Engineer;Full+Stack+Developer;Frontend+Developer;Backend+Developer;Cloud+Enthusiast;Python+Developer)](https://github.com/Yaswanth0324)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exploring cloud technologies. Always eager to learn new tools and best practices in software development.
+I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exploring innovative solutions.
 
 ### 💡 Fun Facts About Me:
 
