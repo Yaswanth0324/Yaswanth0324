@@ -14,7 +14,7 @@
 
 # **Hi there, I'm Yaswanth T** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Software+Developer;[...]
+Java Full Stack Developer | Software Developer | Building robust solutions with clean code
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exp[...]
+I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exploring cutting-edge technologies.
 
 ### 💡 Fun Facts About Me:
 
@@ -67,13 +67,13 @@ I'm a **Software Developer Intern** with **6 months** of hands-on experience bui
 
 ### **Deployment & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-008000?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Aiven](https://img.shields.io/badge/Aiven-2E3440?style=for-the-badge&logo=aiven&logoColor=white)
 ![TiDB](https://img.shields.io/badge/TiDB-FF6B6B?style=for-the-badge&logo=tidb&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-008000?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
