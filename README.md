@@ -14,7 +14,7 @@
 
 # **Hi there, I'm Yaswanth T** 👋
 
-Java Full Stack Developer | Software Developer | Building robust solutions with clean code
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Software+Developer;Building+Robust+Solutions;Writing+Clean+Code" alt="Typing SVG" /></a>
 
 </div>
 
@@ -25,7 +25,7 @@ Java Full Stack Developer | Software Developer | Building robust solutions with 
 
 ## 🚀 About Me
 
-I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exploring cutting-edge technologies.
+I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exploring new technologies.
 
 ### 💡 Fun Facts About Me:
 
