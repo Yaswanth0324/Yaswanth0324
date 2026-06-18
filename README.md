@@ -14,7 +14,7 @@
 
 # **Hi there, I'm Yaswanth T** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+FullStack+Developer;Software+Developer;SoftWare+Engineer;DataBase+Management;Frontend+Developer;Backend+Developer;Cloud+Enthusiast;Python+Developer)](https://github.com/Yaswanth0324)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Software+Developer;[...]
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exploring innovative solutions.
+I'm a **Software Developer Intern** with **6 months** of hands-on experience building robust backend systems and responsive frontend applications. Passionate about writing clean, scalable code and exp[...]
 
 ### 💡 Fun Facts About Me:
 
@@ -59,11 +59,20 @@ I'm a **Software Developer Intern** with **6 months** of hands-on experience bui
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Tools & DevOps**
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **Deployment & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-2E3440?style=for-the-badge&logo=aiven&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-FF6B6B?style=for-the-badge&logo=tidb&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-008000?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
