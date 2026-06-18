@@ -14,7 +14,7 @@
 
 # **Hi there, I'm Yaswanth T** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Software+Developer;SoftWare+Engineer;DataBase+Management;Frontend+Developer;Backend+Developer;Cloud+Enthusiast;Python+Developer)](https://github.com/Yaswanth0324)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Java+FullStack+Developer;Software+Developer;SoftWare+Engineer;DataBase+Management;Frontend+Developer;Backend+Developer;Cloud+Enthusiast;Python+Developer)](https://github.com/Yaswanth0324)
 
 </div>
 
